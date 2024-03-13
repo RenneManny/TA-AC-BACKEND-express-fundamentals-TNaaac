@@ -3,7 +3,7 @@ writeCode
 Q. Create a middleware which is similar to morgan(logger) which logs
 
 - requested method
-- requested url
+- requested u rl
 - current time
 
 Q. Create a middleware which is similar to express.json()
